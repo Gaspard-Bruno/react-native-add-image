@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/olserra/react-native-add-image.git"
+    "url": "git+https://github.com/Gaspard-Bruno/react-native-add-image.git"
   },
   "keywords": [
     "react-native"
@@ -16,7 +16,7 @@
   "author": "Otavio Serra",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/olserra/react-native-add-image/issues"
+    "url": "https://github.com/Gaspard-Bruno/react-native-add-image/issues"
   },
-  "homepage": "https://github.com/olserra/react-native-add-image#readme"
+  "homepage": "https://github.com/Gaspard-Bruno/react-native-add-image#readme"
 }
