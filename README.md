@@ -14,7 +14,8 @@ Install with [npm](https://www.npmjs.com/):
 
 ```js
 import AddImage from "react-native-add-image"
-AddImage(); // => "Hello, john"
+
+AddImage();
 ```
 
 ## See the code base here
