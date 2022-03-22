@@ -1,0 +1,22 @@
+{
+  "name": "react-native-add-image",
+  "version": "1.0.1",
+  "description": "Pops up a dialog with the upload option or take photo, and cancel as well.",
+  "main": "AddImage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olserra/react-native-add-image.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Otavio Serra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olserra/react-native-add-image/issues"
+  },
+  "homepage": "https://github.com/olserra/react-native-add-image#readme"
+}
