@@ -1,8 +1,6 @@
-# npm-github-package
+# react-native-add-image
 
-npm registry to GitHub Package react-native-add-image.
-
-Pops up a dialog with the upload option or take photo. And cancel as well, of course.
+Pops up a dialog with the upload option or take photo, and cancel as well. Under the hood we are using the react-native-image-picker package and its two main functions: launchCamera and launchImageLibrary.
 
 ## Install
 
