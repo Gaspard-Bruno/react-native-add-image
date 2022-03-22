@@ -3,13 +3,13 @@ import { useCallback, useMemo } from 'react';
 
 import { ActionSheetIOS, Dimensions } from 'react-native';
 
-import {launchCamera, launchImageLibrary} from 'react-native-image-picker';
+import { launchCamera, launchImageLibrary } from 'react-native-image-picker';
 
 import get from 'lodash/get';
 
 const windowSize = Dimensions.get('window');
 
-export const useImagePicker = (navigation) => {
+export const AddImage = (navigation) => {
 
   const options = useMemo(() => ({
     mediaType: 'photo',
