@@ -1,6 +1,6 @@
 {
   "name": "react-native-add-image",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Pops up a dialog with the upload option or take photo, and cancel as well.",
   "main": "AddImage.js",
   "scripts": {
