@@ -13,9 +13,13 @@ Install with [npm](https://www.npmjs.com/):
 ## Usage
 
 ```js
-import AddImage from "react-native-add-image"
+import useAddImage from "react-native-add-image"
 
-AddImage();
+const {handleShowImagePicker} = useAddImage();
+
+handleShowImagePicker((response) => {
+    // DO THINGS
+})
 ```
 
 ## See the code base here
