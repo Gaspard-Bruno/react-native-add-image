@@ -22,14 +22,14 @@ handleShowImagePicker((response) => {
 
 ## See the code base here
 
-See [Code page](https://github.com/olserra/react-native-add-image).
+See [Code page](https://github.com/Gaspard-Bruno/react-native-add-image).
 
 
 ## Contributing
 
 Pull requests and stars are always welcome.
 
-For bugs and feature requests, [please create an issue](https://github.com/olserra/react-native-add-image/issues).
+For bugs and feature requests, [please create an issue](https://github.com/Gaspard-Bruno/react-native-add-image/issues).
 
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
@@ -43,5 +43,5 @@ For bugs and feature requests, [please create an issue](https://github.com/olser
 
 ## License
 
-MIT © olserra
+MIT© 
 
